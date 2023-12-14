@@ -8,3 +8,4 @@ The projects section images are link that divert to my GitHub page. There is a v
 The image on project 1 is intended to be the main project highlighted.
 I had an issue with the smaller images on project:2 and project 3:scaling scaling appropirately when the screen is halfed or otherwise made smaller. 
 The contact me section contains a working link that goes to my GitHub
+deployed link: https://crar96.github.io/Week-2-Challenge/
